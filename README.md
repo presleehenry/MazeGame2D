@@ -22,6 +22,7 @@ This project generates a maze using a 2D array and allows the user to navigate t
 
 ## Contributors
 - **Elvis Ilor**: Core development, project management, and implementation.
+- **Preslee Henry**
 
 ## Acknowledgments
 - Java Swing for GUI components.
